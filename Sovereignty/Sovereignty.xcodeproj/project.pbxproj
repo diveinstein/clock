@@ -275,11 +275,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Sovereignty/Sovereignty.entitlements;
+				CODE_SIGN_ENTITLEMENTS = "Sovereignty/Supporting Files/Sovereignty.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = TD2H4JYEFL;
-				INFOPLIST_FILE = Sovereignty/Info.plist;
+				INFOPLIST_FILE = "Sovereignty/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -295,11 +295,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Sovereignty/Sovereignty.entitlements;
+				CODE_SIGN_ENTITLEMENTS = "Sovereignty/Supporting Files/Sovereignty.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = TD2H4JYEFL;
-				INFOPLIST_FILE = Sovereignty/Info.plist;
+				INFOPLIST_FILE = "Sovereignty/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",

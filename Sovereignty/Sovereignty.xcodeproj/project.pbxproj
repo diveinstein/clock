@@ -32,6 +32,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E32708B921D91C3C001E94F6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E3A68F3F21D90AEC00DA4F25 /* Sovereignty.entitlements */,
+				E3A68F3E21D90AEC00DA4F25 /* Info.plist */,
+				E3A68F3921D90AEC00DA4F25 /* Assets.xcassets */,
+				E3A68F3721D90AEB00DA4F25 /* AppDelegate.swift */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		E3A68F2B21D90AEB00DA4F25 = {
 			isa = PBXGroup;
 			children = (
@@ -51,11 +62,8 @@
 		E3A68F3621D90AEB00DA4F25 /* Sovereignty */ = {
 			isa = PBXGroup;
 			children = (
-				E3A68F3721D90AEB00DA4F25 /* AppDelegate.swift */,
-				E3A68F3921D90AEC00DA4F25 /* Assets.xcassets */,
+				E32708B921D91C3C001E94F6 /* Supporting Files */,
 				E3A68F3B21D90AEC00DA4F25 /* MainMenu.xib */,
-				E3A68F3E21D90AEC00DA4F25 /* Info.plist */,
-				E3A68F3F21D90AEC00DA4F25 /* Sovereignty.entitlements */,
 			);
 			path = Sovereignty;
 			sourceTree = "<group>";

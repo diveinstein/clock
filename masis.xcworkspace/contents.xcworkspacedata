@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Sovereignty/Sovereignty.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "container:The Magical Clock/The Magical Clock.xcodeproj">
    </FileRef>
 </Workspace>
